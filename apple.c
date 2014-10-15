@@ -2,5 +2,5 @@
 
 void main()
 {
-	pritf("hello my world\n");
+	pritf("hello my wonderful world\n");
 }
